@@ -1,0 +1,1 @@
+File create_model.ipynb(đã hiển thị sẵn kết quả)
